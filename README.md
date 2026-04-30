@@ -61,13 +61,43 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
     </td>
     <td>
       <ul>
-        <li> <b>La Ética y la IA</b>.
+        <li> <b>La &Eacute;tica y la IA</b>.
           <ul>
             <li><b>Recursos</b>: <a href=how_to_reduce_plagiarism.jpg">How to reduce Plagiarism in research paper?</a>
           </ul>
         <li><b>Herramientas de apoyo para referencias bibliogr&aacute;ficas</b>.
         <li><b>Actividad individual</b>: Define la pregunta que guiar&aacute; tu investigaci&oacute;n e identifica los recursos de apoyo que sustentar&aacute;n tu ensayo.
-        <li><b>Actividad en equipo</b>: Diseñen y preparen una din&aacute;mica para presentarla ante el grupo, en la que ejemplifiquen el uso de alguna herramienta de IA. Esta puede estar orientada (o no) al apoyo en la elaboración de textos cient&iacute;ficos.
+        <li><b>Actividad en equipo</b>: Dise&ntilde;en y preparen una din&aacute;mica para presentarla ante el grupo, en la que ejemplifiquen el uso de alguna herramienta de IA. Esta puede estar orientada (o no) al apoyo en la elaboraci&oacute;n de textos cient&iacute;ficos.
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>
+      <ul>
+        <li> Presentaciones plenarias
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><b>Presentaci&oacute;n de herramientas de IA en sesión plenaria</b>.
+        <li><b>Trabajar en su ensayo personal</b>.
+        <ul>
+          <li><b>Recursos</b>: <a href=academic_research_poster.jpg">How to reduce Plagiarism in research paper?</a>
+          <li><b>Agendar entrevista personal</b>.
+        </ul>
+      </ul>
+    </td>
+    <tr>
+    <td>5</td>
+    <td>
+      <ul>
+        <li>Entrevista personal
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><b>Presentaci&oacute;n de ensayo personal</b>. Revisa la agenda en la sesi&oacute;n de avisos.
       </ul>
     </td>
   </tr>
