@@ -63,7 +63,7 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
       <ul>
         <li> <b>La &Eacute;tica y la IA</b>.
           <ul>
-            <li><b>Recursos</b>: <a href=images/how_to_reduce_plagiarism.jpg">How to reduce Plagiarism in research paper?</a>
+            <li><b>Recursos</b>:<a href="images/how_to_reduce_plagiarism.jpg" target="_blank">ChatGPT Prompts FrameWorks</a>, <a href=images/how_to_reduce_plagiarism.jpg">How to reduce Plagiarism in research paper?</a>
           </ul>
         <li><b>Herramientas de apoyo para referencias bibliogr&aacute;ficas</b>.
         <li><b>Actividad individual</b>: Define la pregunta que guiar&aacute; tu investigaci&oacute;n e identifica los recursos de apoyo que sustentar&aacute;n tu ensayo.
