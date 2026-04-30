@@ -83,7 +83,7 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
         <li><b>Presentaci&oacute;n de herramientas de IA en sesión plenaria</b>.
         <li><b>Trabajar en su ensayo personal</b>.
         <ul>
-          <li><b>Recursos</b>: <a href=images/academic_research_poster.jpg">Academic Reserch Poster</a>
+          <li><b>Recursos</b>:<a href="images/academic_research_poster.jpg" target="_blank">Academic Reserch Poster</a>
           <li><b>Agendar entrevista personal</b>.
         </ul>
       </ul>
