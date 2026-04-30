@@ -7,11 +7,17 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
 ## Agenda
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
+    <th>D&iacute;a</th>
+    <th>Temas</th>
+    <th>Actividades</th>
   </tr>
   <tr>
-    <td>Row 1, Cell 1</td>
+    <td>1</td>
+    <td>
+      Introducci&oacute;n <br>
+      Ingenier&iacute;a de Prompt <br>
+      Herramientas de IA 
+    </td>
     <td>Row 1, Cell 2</td>
   </tr>
   <tr>
