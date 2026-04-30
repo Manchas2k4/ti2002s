@@ -63,7 +63,7 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
       <ul>
         <li> <b>La &Eacute;tica y la IA</b>.
           <ul>
-            <li><b>Recursos</b>: <a href=how_to_reduce_plagiarism.jpg">How to reduce Plagiarism in research paper?</a>
+            <li><b>Recursos</b>: <a href=images/how_to_reduce_plagiarism.jpg">How to reduce Plagiarism in research paper?</a>
           </ul>
         <li><b>Herramientas de apoyo para referencias bibliogr&aacute;ficas</b>.
         <li><b>Actividad individual</b>: Define la pregunta que guiar&aacute; tu investigaci&oacute;n e identifica los recursos de apoyo que sustentar&aacute;n tu ensayo.
@@ -83,7 +83,7 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
         <li><b>Presentaci&oacute;n de herramientas de IA en sesión plenaria</b>.
         <li><b>Trabajar en su ensayo personal</b>.
         <ul>
-          <li><b>Recursos</b>: <a href=academic_research_poster.jpg">How to reduce Plagiarism in research paper?</a>
+          <li><b>Recursos</b>: <a href=images/academic_research_poster.jpg">Academic Reserch Poster</a>
           <li><b>Agendar entrevista personal</b>.
         </ul>
       </ul>
