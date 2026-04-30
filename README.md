@@ -27,7 +27,7 @@ Al finalizar esta Semana Tec, cada estudiante será capaz de:
         <li> <b>Ingenier&iacute;a de Prompt</b>:
           <ul> 
             <li> Ejemplo en clase.
-            <li> Recursos adicionales: <a href="images/chatgpt_ prompts_frameworks.jpg">ChatGPT Prompts FrameWorks</a>, <a href="images/que_es_un_prompt.jpg">¿Qu&eacute; es un Prompt?</a>, <a href="https://www.youtube.com/watch?v=fZ7ZeH65PFA">Why AI gives you mediocre answers (others get gold)</a>.
+            <li> Recursos adicionales: <a href="images/chatgpt_ prompts_frameworks.jpg">ChatGPT Prompts FrameWorks</a>, <a href="images/que_es_un_prompt.jpg">¿Qu&eacute; es un Prompt?</a>, <a href="https://www.youtube.com/watch?v=fZ7ZeH65PFA" target="_blank">Why AI gives you mediocre answers (others get gold)</a>.
           </ul>
         <li> <b>Conformaci&oacute;n de equipos de trabajo</b>.
         <li> <b>Actividad en equipo</b>: En equipo, seleccionen un tema de inter&eacute;s y, posteriormente, busquen recursos (como art&iacute;culos en PDF, videos y p&aacute;ginas web) que respalden su investigaci&oacute;n. Con base en esta informaci&oacute;n, elaboren un mapa mental, un video y un audio sobre el tema elegido. Finalmente, presenten sus resultados ante el grupo.
